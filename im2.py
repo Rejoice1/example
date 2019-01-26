@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as 
 import cv2
 orb = cv2.ORB_create()
 im =  cv2.imread('pp.jpeg', 0)
